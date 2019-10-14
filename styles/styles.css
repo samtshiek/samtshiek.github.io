@@ -18,3 +18,7 @@ h2 {
 #new-font {
     font-family: fantasy, cursive, serif;
 }
+header p {
+    font-weight: bold;
+    color: blue;
+}
