@@ -44,8 +44,3 @@ border-radius: 8px;
 figure.left {
     float: left;
 }
-figure.border {
-    background-color: lightslategray;
-    border: black solid thin;
-    padding: 5px;
-} 
