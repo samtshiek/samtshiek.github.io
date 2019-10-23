@@ -68,3 +68,40 @@ nav li {
     display: inline;
     padding: 8px;    
 }
+
+.btn-padding {
+    padding: 25px;
+    margin: 30px;
+    border: 10px green double;    
+    border-radius: 22px;
+}
+
+.btn-padding:hover {
+    background-color: aqua;
+    border-color: white;
+} 
+
+.btn-padding:active {
+    background-color:gold;
+    border-color:grey;
+} 
+
+.btn-margin-padding:active {
+    color: red;
+}
+
+#button-wrapper {
+    display: inline-block;
+    border: 10px solid maroon;
+}
+
+aside {        
+    background-color: bisque;
+    border: black 1px solid;
+    border-radius: 8px;
+    float: right;
+    font-style: italic;
+    margin-right: 5px;
+    padding: 8px;
+    width: 33%;        
+}
