@@ -1,5 +1,5 @@
 body {
-    background-color: aqua;
+    background-color: rgb(73, 31, 3);
 }
 h1 {
     color: aliceblue;
@@ -19,11 +19,11 @@ h2 {
     font-family: fantasy, cursive, serif;
 }
 header {
-    background-color: fuchsia;
+    background-color: black;
 }
 header p {
     font-weight: bold;
-    color: blue;
+    color: green;
 }
 
 .byline{
@@ -32,10 +32,10 @@ header p {
     font-size: 15px;
 }
 main {
-    background-color: blueviolet;
+    background-color: wheat;
 }
 footer {
-    text-align: center;
+text-align: center;
 background-color: aliceblue;
 border: black solid thin;
 padding-left: 5px;
@@ -43,8 +43,16 @@ border-radius: 8px;
 }
 figure.left {
     float: left;
+    background-color: bisque;
 }
 nav {
-    border: 3px solid brown;
+    border: 5px solid rgb(73, 31, 3);
     background-color: greenyellow;
+}
+#photo {
+    width: 240px;
+    height: 290px;
+}
+aside {
+    float: right;
 }
