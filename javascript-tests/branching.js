@@ -15,15 +15,13 @@ else {
 
 height = -1;
 
-if (height >= 5) {
+if (height >= 25) {
     console.log('We have a big one');
 }
-else if (height >= 0) {
+else if (height < 25) {
     console.log('We have a small one');
 }
-else {
-    console.log('We have a negative one');
-}
+
 
 height = 'little';
 
