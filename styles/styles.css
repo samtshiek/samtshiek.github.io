@@ -109,3 +109,7 @@ aside {
 .object {
     font-size: 20px;
 }
+
+li a:visited {
+    color: white;
+  }
