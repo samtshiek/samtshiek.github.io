@@ -113,3 +113,21 @@ aside {
 li a:visited {
     color: white;
   }
+  
+.blueBackground {
+    background-color: blue;
+}
+
+.greenBackground {
+    background-color: green;
+} 
+
+.redBackground {
+    background-color: red;
+} 
+.yellowBackground {
+    background-color: yellow;
+} 
+.purpleBackground {
+    background-color: purple;
+} 
